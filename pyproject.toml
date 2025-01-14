@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "sleep-even"
-version = "0.0.0"
+version = "0.1.0"
 description = "Is even?"
 authors = ["Micael Jarniac <micael@jarniac.dev>"]
 license = "MIT"
