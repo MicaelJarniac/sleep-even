@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/MicaelJarniac/crustypy",
+  "commit": "81797f153c8d485ec930eaeff90cae60509c1ec6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Micael Jarniac",
+      "email": "micael@jarniac.dev",
+      "github_username": "MicaelJarniac",
+      "year": "2025",
+      "project_name": "Sleep Even",
+      "project_slug": "sleep_even",
+      "project_distribution_name": "sleep-even",
+      "project_short_description": "Is even?",
+      "version": "0.0.0",
+      "shields_url": "https://img.shields.io",
+      "discord_invite": "Ye9yJtZQuN",
+      "report_method": "micael@jarniac.dev",
+      "__github_path": "MicaelJarniac/sleep-even",
+      "__github_url": "https://github.com/MicaelJarniac/sleep-even",
+      "__readthedocs_name": "sleep-even",
+      "_template": "https://github.com/MicaelJarniac/crustypy"
+    }
+  },
+  "directory": null
+}
