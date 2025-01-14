@@ -25,7 +25,6 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.9"
 
-loguru = "^0.7.0"
 
 [tool.poetry.group.tests.dependencies]
 coverage = "^7.2.7"
