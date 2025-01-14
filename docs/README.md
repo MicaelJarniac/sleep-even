@@ -102,7 +102,9 @@ poetry add git+git://github.com/MicaelJarniac/sleep-even
 For more examples, see the [full documentation][docs].
 
 ```python
-from sleep_even import sleep_even
+from sleep_even import is_even
+
+is_even(3)  # False
 ```
 
 ## Contributing
