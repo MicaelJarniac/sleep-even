@@ -47,6 +47,7 @@ mkdocs-literate-nav = "^0.6.1"
 griffe-pydantic = "^1.1.0"
 mkdocs-with-pdf = "^0.9.3"
 mkdocs-print-site-plugin = "^2.6.0"
+pydantic = "^2.10.5"
 
 [tool.poetry.group.typing.dependencies]
 # Typing stubs go here
